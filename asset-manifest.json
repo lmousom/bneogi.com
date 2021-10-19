@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bneogi.com/static/css/main.4342a5a8.chunk.css",
+    "main.js": "/bneogi.com/static/js/main.6b939730.chunk.js",
+    "main.js.map": "/bneogi.com/static/js/main.6b939730.chunk.js.map",
+    "runtime-main.js": "/bneogi.com/static/js/runtime-main.34c2a1e5.js",
+    "runtime-main.js.map": "/bneogi.com/static/js/runtime-main.34c2a1e5.js.map",
+    "static/js/2.24d3d2ce.chunk.js": "/bneogi.com/static/js/2.24d3d2ce.chunk.js",
+    "static/js/2.24d3d2ce.chunk.js.map": "/bneogi.com/static/js/2.24d3d2ce.chunk.js.map",
+    "index.html": "/bneogi.com/index.html",
+    "static/css/main.4342a5a8.chunk.css.map": "/bneogi.com/static/css/main.4342a5a8.chunk.css.map",
+    "static/js/2.24d3d2ce.chunk.js.LICENSE.txt": "/bneogi.com/static/js/2.24d3d2ce.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bneogi.com/static/media/bg.6bc16ee8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34c2a1e5.js",
+    "static/js/2.24d3d2ce.chunk.js",
+    "static/css/main.4342a5a8.chunk.css",
+    "static/js/main.6b939730.chunk.js"
+  ]
+}
